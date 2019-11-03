@@ -1,7 +1,5 @@
 import java.util.*;
 
-//1ST COMMIT FROM DESKTOP - PUSH TRIAL
-
 public class TicTacToe {
 
     private char[][] board = new char[3][3];
